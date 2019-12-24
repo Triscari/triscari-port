@@ -1,8 +1,8 @@
 ---
-title: Project Title 1
-subtitle: Optional Project Subtitle
-date: '2019-05-10'
-thumb_img_path: images/1_thumb.jpg
+title: Sneakers
+subtitle: Nike Zooms
+date: 2019-12-24T05:00:00.000Z
+thumb_img_path: /images/12.jpg
 content_img_path: images/1.jpg
 template: project
 ---
